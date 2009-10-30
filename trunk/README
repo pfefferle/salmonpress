@@ -1,0 +1,19 @@
+Welcome to the SalmonPress README!
+
+--[ USING SALMONPRESS ]---------------------------------------------------------
+To use this WordPress plugin, copy the /trunk/src/salmonpress directory into
+the wp-content/plugins directory of your WordPress install and activate
+the plugin in your admin panel.
+
+--[ DOCS & SUPPORT ]------------------------------------------------------------
+This project uses Google Code Hosting to host a wiki and issue tracker. Please
+visit:
+
+  http://salmonpress.googlecode.com
+
+If you wish to report an issue or read documentation about this project.
+
+--[ CONTRIBUTING ]--------------------------------------------------------------
+PLEASE, PLEASE, PLEASE contribute any fixes or changes you make to the library
+back to the original source!  Visit the project page to find out how to
+contribute.
